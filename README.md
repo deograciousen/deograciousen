@@ -1,70 +1,24 @@
-<table>
-<tr>
-<td width="36%" valign="top">
-
-<pre>
-        ..-+#########+-..
-     .+###++---------++###.
-   .##++################++##.
-  ##++####++++++++++++####++##
- ##+###................###++##
- #+##...++++++++++++++...##++#
- ###+.++++++##++++##+++++.####
- #+#..+++++###.+++.###++++..#+#
- #+#.++++++--##++++##--++++.#+#
- ##+.++---...-++++-...---++.##+
-  #+..-+####+-....-+####+-..+#
-  #######..+########+..#######
-  ##.###+##+-##+..+##+##+###.
-  #+##-##.--##++++##--.##-##+
-   ##+##..############..##+##
-    ###.-+---..++++..---+.###
-    ##+.++++-+######+-++++.##
-    ###+--++########++--+###
-     ###+---++++++++---+###
-      ####+--......--+####
-        ######++++######
-          .##########.
-       .+##############+.
-     .####++########++####.
-    ##++####++####++####++##
-   ##+###+++######+++###++##
-</pre>
-
-</td>
-<td width="64%" valign="top">
-
-# GHOST
-
 ```txt
 ┌──(ghost㉿github)-[~/profile]
 └─$ whoami
 ```
 
-I am an engineer focused on building reliable, secure, and maintainable software. My background spans **quality assurance**, **cybersecurity**, **mobile apps**, and full-stack development using **Python**, **TypeScript**, **JavaScript**, and **Dart**.
+I am a quality-focused engineer who helps teams ship software with confidence. I approach QA as more than finding bugs at the end of the process: I use risk-based thinking, clear test design, automation, exploratory testing, and strong communication to protect the user experience before release.
 
-I care about software that works in real conditions: tested flows, clear code, practical security, and user experiences that do not fall apart under pressure.
+My strength is understanding how software can fail in real conditions, then turning that knowledge into practical test coverage, sharper bug reports, stronger release decisions, and cleaner collaboration with developers and product teams. I care about reproducible issues, meaningful acceptance criteria, stable regression suites, and test feedback that actually improves the product.
+
+Alongside QA, I bring a security-aware engineering mindset and hands-on experience across **Python**, **TypeScript**, **JavaScript**, **Dart**, and mobile app workflows. That mix helps me test deeply, reason technically, and speak clearly with both engineering and non-engineering stakeholders.
 
 ```txt
-[ OK ] Quality-focused engineer
-[ OK ] Security-first mindset
-[ OK ] Mobile and web builder
+[ OK ] QA engineer focused on release confidence
+[ OK ] Strong in test strategy, bug analysis, and regression thinking
+[ OK ] Comfortable with automation, mobile apps, APIs, and web systems
+[ OK ] Security-aware, detail-oriented, and user-focused
 
-Engineer | QA-minded | Security-aware | Mobile-ready
+Core identity:
+Quality Assurance Engineer | Test Strategy | Automation | Mobile QA
+Exploratory Testing | Regression Control | Secure Product Thinking
 ```
-
-</td>
-</tr>
-</table>
-
-## Core Strengths
-
-| Area | What I Bring |
-| --- | --- |
-| Quality Assurance | Test planning, bug discovery, regression thinking, release confidence |
-| Cybersecurity | Secure coding habits, threat-aware reviews, practical defense mindset |
-| Mobile Development | Flutter/Dart experience, app quality, usability, and stability |
-| Software Engineering | Python, TypeScript, JavaScript, clean implementation, maintainable systems |
 
 ## Toolbox
 
@@ -84,24 +38,6 @@ Engineer | QA-minded | Security-aware | Mobile-ready
 - Finding weak points in systems before they become real problems.
 - Creating mobile and web apps that feel stable, fast, and useful.
 - Turning messy requirements into clear, shippable implementation.
-
-## Ask Me About
-
-```txt
-Cybersecurity     Quality Assurance     Mobile Apps
-Secure Coding     Test Automation       Python
-TypeScript        JavaScript            Dart
-```
-
-## Working Style
-
-```txt
-Plan clearly.
-Build carefully.
-Test aggressively.
-Review honestly.
-Ship responsibly.
-```
 
 ---
 
