@@ -1,8 +1,8 @@
+<table>
+<tr>
+<td width="52%" valign="top">
 
-```txt
-┌──(ghost㉿github)-[~/profile]
-└─$ boot --profile
-
+<pre>
 ########################################++--....---+#############################################
 #.......................................+###########-...........................................#
 #.++++++++++++++++++++++++++++-..+######++---------+######+....++++++++++++++++++++++++++++++++.#
@@ -19,7 +19,7 @@
 #.+++++++++++++++-.#+######...++++--+#+++++++++++++++++++++++##+--#######-#-.++++++++++++++++++.#
 #.+++++++++++++++-##.#####..-+++++++++++++++++++++++++++++++++#+#-+######+##.++++++++++++++++++.#
 #.+++++++++++++++-##-+##+#..++++++++++++++++++++++++++++++++###+##.#+####+##.++++++++++++++++++.#
-#.+++++++++++++++-.#-#+#+#..++++++++++++++++++++++++++++++++####+#.#++###-#--++++++++++++++++++.#
+#.+++++++++++++++-.#-#+#++..++++++++++++++++++++++++++++++++####+#.#++###-#--++++++++++++++++++.#
 #.+++++++++++++++-+#--##+#.-+++++++++++++++++++++.-+++++++++--+###.#+####+#--++++++++++++++++++.#
 #.+++++++++++++++-.##+####.++++++++++++++++++++++++++++++++++--+##-#####+##.+++++++++++++++++++.#
 #.++++++++++++++++-.#-####.+++-------.-..-++++++++++++---....-.-+++.###+-##.+++++++++++++++++++.#
@@ -56,22 +56,33 @@
 #-+++++++++++-+#++#####+##########++####+++++#####++++++####++##++####+######++#.++++++++++++++-#
 #.-++++++++++.##+####+##########+++++++######+++++#######+++##+######++#+++###+##-++++++++++++--#
 ##+.--------.-#.-------++--------+------....-++###++----------------+++-+-++++-+#..---.-------+##
+</pre>
 
-[ OK ] Quality-focused engineer
-[ OK ] Security-first mindset
-[ OK ] Mobile and web builder
+</td>
+<td width="48%" valign="top">
+
+# GHOST
+
+```txt
+┌──(ghost㉿github)-[~/profile]
+└─$ whoami
 ```
-
-## About Me
 
 I am an engineer focused on building reliable, secure, and maintainable software. My background spans **quality assurance**, **cybersecurity**, **mobile apps**, and full-stack development using **Python**, **TypeScript**, **JavaScript**, and **Dart**.
 
 I care about software that works in real conditions: tested flows, clear code, practical security, and user experiences that do not fall apart under pressure.
 
-```bash
-ghost@github:~$ whoami
+```txt
+[ OK ] Quality-focused engineer
+[ OK ] Security-first mindset
+[ OK ] Mobile and web builder
+
 Engineer | QA-minded | Security-aware | Mobile-ready
 ```
+
+</td>
+</tr>
+</table>
 
 ## Core Strengths
 
@@ -93,13 +104,6 @@ Engineer | QA-minded | Security-aware | Mobile-ready
 ![Security](https://img.shields.io/badge/Security-0B1220?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 ![QA](https://img.shields.io/badge/QA-0B1220?style=for-the-badge&logo=checkmarx&logoColor=22C55E)
 
-```txt
-Languages      Python | TypeScript | JavaScript | Dart
-Mobile         Flutter | app quality | release confidence
-Security       secure coding | threat thinking | practical defense
-Quality        automation | exploratory testing | regression control
-```
-
 ## What I Like Working On
 
 - Building software that is simple to understand and hard to break.
@@ -107,22 +111,6 @@ Quality        automation | exploratory testing | regression control
 - Finding weak points in systems before they become real problems.
 - Creating mobile and web apps that feel stable, fast, and useful.
 - Turning messy requirements into clear, shippable implementation.
-
-## Terminal Snapshot
-
-```txt
-ghost@github:~$ systemctl status engineering
-
-● engineering.service - Practical Software Delivery
-   Active: active (building)
-   Focus:  quality, security, mobile, maintainability
-
-   Current tasks:
-   ├─ write clean code
-   ├─ test risky paths
-   ├─ review with security in mind
-   └─ keep learning every cycle
-```
 
 ## Ask Me About
 
