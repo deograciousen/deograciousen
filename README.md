@@ -1,4 +1,3 @@
-# GHOST
 
 ```txt
 ┌──(ghost㉿github)-[~/profile]
