@@ -3,7 +3,7 @@
 └─$ whoami
 ```
 
-I am a quality-focused engineer who helps teams ship software with confidence. I approach QA as more than finding bugs at the end of the process: I use risk-based thinking, clear test design, automation, exploratory testing, and strong communication to protect the user experience before release.
+I am a security-quality focused engineer who helps teams ship software with confidence. I approach QA as more than finding bugs at the end of the process: I use risk-based thinking, clear test design, automation, exploratory testing, and strong communication to protect the user experience before release.
 
 My strength is understanding how software can fail in real conditions, then turning that knowledge into practical test coverage, sharper bug reports, stronger release decisions, and cleaner collaboration with developers and product teams. I care about reproducible issues, meaningful acceptance criteria, stable regression suites, and test feedback that actually improves the product.
 
