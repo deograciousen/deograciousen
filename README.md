@@ -87,7 +87,7 @@ Eventually, that curiosity landed me among the **Top 1% of users globally**.
 
 Not bad for someone who mostly started because breaking into intentionally vulnerable machines sounded like an interesting way to spend free time.
 
-🔗 **[Find me on TryHackMe — @Jurence](https://tryhackme.com/p/Jurence)**
+🔗 **[Find me on TryHackMe](https://tryhackme.com/p/Jurence)**
 
 Still learning. Still exploring. Still occasionally getting humbled by a supposedly easy room.
 
