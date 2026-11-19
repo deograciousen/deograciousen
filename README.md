@@ -1,112 +1,153 @@
 
 <div align="center">
 
-# 👻 fryingpan@github
+# 🍳 fryingpan
 
-### Quality Engineer by day. Hacker by curiosity. Builder by instinct.
+**Building things recreationally. Questioning everything in between.**
 
-**I break things to make them better. Sometimes I build things just to see if I can.**
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%201%25%20Globally-0B1220?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/Jurence)
-![QA](https://img.shields.io/badge/Software%20Quality-Engineering-0B1220?style=for-the-badge&logo=checkmarx&logoColor=22C55E)
-![Flutter](https://img.shields.io/badge/Flutter-Side%20Quests-0B1220?style=for-the-badge&logo=flutter&logoColor=38BDF8)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%201%25%20Globally-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/Jurence)
+![Python](https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=FACC15)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B1220?style=for-the-badge&logo=typescript&logoColor=60A5FA)
+![Flutter](https://img.shields.io/badge/Flutter-0B1220?style=for-the-badge&logo=flutter&logoColor=38BDF8)
 
 </div>
 
----
-
-```bash
+```text
 ┌──(ghost㉿github)-[~/profile]
 └─$ whoami
 
-> Quality Engineer
-> Security Enthusiast
-> Occasional Flutter Developer
-> Retired Bug Researcher @Bugcrowd x HackerOne
-> Curious Human
-
-[+] Access granted.
-[+] Curiosity level: dangerously high.
+Name       : Jury
+Profession : Software Quality Engineer
+Interests  : Cybersecurity, Automation, Mobile Development
+Hobbies    : Chess, Hacking Labs, Building random things that are unnecessary
+Weakness   : "Just one more experiment..."
 ```
 
-## 🧠 A little about the human behind the terminal
+## 👨‍💻 So, who's behind the terminal?
 
-Hey, I'm **Jury** 👋
+Hey there! 👋
 
-I spend a good part of my life figuring out how software can go wrong, preferably before users get the chance to find out.
+I'm **Jury**, a Software Quality Engineer who spends a suspicious amount of time figuring out how software can fail, how systems can be exploited, and why something that worked perfectly yesterday suddenly refuses to cooperate today.
 
-I'm a **Software Quality Engineer** with a security-focused mindset, a love for understanding how systems behave, and an unhealthy curiosity about what happens when you push software beyond what it was designed to handle.
+Professionally, I live somewhere between **Quality Engineering, Test Automation, API Testing, Mobile QA, and Security**.
 
-For me, QA isn't about clicking buttons and ticking checkboxes. It's about asking better questions, challenging assumptions, exploring edge cases, and helping teams build products that people can actually trust.
+Good QA is less about finding bugs and more about understanding risks, questioning assumptions, and helping teams ship software that doesn't fall apart the moment a real user touches it.
 
-I enjoy the entire journey: understanding requirements, thinking through risks, designing tests, investigating strange behavior, automating repetitive checks, and helping teams make confident release decisions.
+Outside work, things get a little more interesting.
 
-And when I'm not busy breaking software professionally?
+I enjoy cybersecurity challenges, experimenting with Python, writing mobile apps in **Flutter & Dart**, and occasionally building tools simply because I wondered, *"Wait... is that even possible?"*
 
-**I'm probably writing some Flutter code, exploring cybersecurity labs, or building something nobody asked me to build.**
+Sometimes the answer is yes. Sometimes the answer is three days of debugging and a very valuable life lesson.
 
-## ⚡ Currently running on...
+Either way, I usually learn something.
 
-```yaml
-name: Deogracious
-alias: fryingpan
+## 🏆 Interesting Things I've Done
 
-personality:
-  curiosity: 100%
-  attention_to_detail: high
-  tolerance_for_flaky_tests: low
-  relationship_with_bugs: complicated
+*Some people collect stamps. I apparently collect unusual technical projects and chess trophies.*
 
-theme: "Trust is earned. Quality is engineered."
-```
+### 💀 01. Built Ransomware for My Final-Year University Project
 
-## 🛡️ The security rabbit hole
+Yes, you read that correctly.
 
-Some people solve puzzles. I enjoy figuring out how systems can be exploited, misconfigured, or made to behave in unexpected ways.
+For my university final-year project, I developed a **fully functional ransomware proof of concept** in a controlled academic environment. P.S This was way before A.I came. So imagine how impressive that is😂
 
-Cybersecurity started as curiosity and became one of my favorite ways to sharpen my technical thinking.
+It was one of those projects that started as an interesting technical challenge and turned into something I became genuinely proud of.
 
-<div align="center">
+**🏆 Result: Won Best Practical Project.**
 
-### 🏆 TryHackMe — Top 1% Globally
+Apparently, building something that demonstrates why cybersecurity matters is a pretty good way to finish university.
 
-[![TryHackMe Profile](https://img.shields.io/badge/View%20My%20TryHackMe%20Profile-Jurence-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Jurence)
+*For the record, this was an academic security research project, not a career in holding people's files hostage.*
 
-**Top 1% globally. Still very much a student of the game.**
+### 📡 02. Built a Python Wi-Fi Deauthentication Tool
 
-</div>
+This one started with curiosity.
 
-I don't see security and software quality as separate worlds. Both require curiosity, structured thinking, an understanding of risk, and the willingness to question what everyone else assumes is working.
+I was exploring wireless network security and became interested in how Wi-Fi connections could be disrupted through weaknesses in certain management-frame protections.
 
-The difference is that one asks, *"Does this work correctly?"* and the other asks, *"What happens when someone tries to make it work incorrectly?"*
+So naturally, I decided to experiment with the concept using **Python** in an authorized test environment.
 
-I like asking both.
+The result was a Wi-Fi deauthentication tool that helped me understand wireless protocols, network behavior, and the importance of stronger wireless security controls.
 
-## 🧪 Breaking software, professionally
+Was it necessary? Probably not.
 
-I care less about how many tests exist and more about whether those tests tell us something useful.
+Did I learn a lot? Absolutely.
 
-**A thousand passing tests mean very little if the important things are still broken.**
+Did I enjoy building it more than I should have? Also yes. 
 
-## 📱 Sometimes I build instead of break
+And again, this was also way before A.I came. So imagine how impressive that is as well😂
 
-Plot twist: I also write code.
+### 🛡️ 03. Currently TryHackMe's Global Top 1%
 
-Mostly **Flutter and Dart**, because there's something satisfying about turning an idea into an actual mobile app you can tap, swipe, and occasionally crash yourself.
+Somewhere along the way, cybersecurity stopped being just an interest and became a full-blown rabbit hole.
 
-I enjoy experimenting with interfaces, app architecture, APIs, and whatever random idea decides to occupy my brain that week.
+I've spent countless hours exploring Linux, networking, web vulnerabilities, privilege escalation concepts, and hands-on security challenges on **TryHackMe**.
 
-Some projects are useful. Some are experiments. Some exist purely because I wanted to know whether I could build them.
+Eventually, that curiosity landed me among the **Top 1% of users globally**.
 
-And yes, being a QA engineer means I tend to find bugs in my own apps.
+Not bad for someone who mostly started because breaking into intentionally vulnerable machines sounded like an interesting way to spend free time.
 
-**Developer me:** "It works on my device."
+🔗 **[Find me on TryHackMe — @Jurence](https://tryhackme.com/p/Jurence)**
 
-**QA me:** "Interesting. Let's test that assumption."
+Still learning. Still exploring. Still occasionally getting humbled by a supposedly easy room.
 
-It's a complicated relationship.
+### ♟️ 04. National Chess Championship — 1st Runner-Up (2019)
 
-## 🧰 My digital toolbox
+Before I spent my time thinking about edge cases and security vulnerabilities, I was already spending far too much time thinking several moves ahead.
+
+In **2019, I finished as 1st Runner-Up at the National Chess Championship**.
+
+Chess taught me patience, strategy, pattern recognition, and the importance of thinking beyond the obvious move.
+
+Surprisingly, those skills translate pretty well into software testing and cybersecurity.
+
+In chess, you look for weaknesses in your opponent's position.
+
+In QA, you look for weaknesses in software.
+
+The main difference? Software doesn't resign when you find a critical bug.
+
+### 📱 05. I Also Build Mobile Apps... Just Because
+
+When I'm not busy breaking software, I occasionally switch sides and become the developer.
+
+I enjoy building mobile applications using **Flutter and Dart**, experimenting with interfaces, integrating APIs, and turning random ideas into something functional.
+
+No grand explanation here. I simply enjoy writing code.
+
+There's something satisfying about starting with an empty project and eventually having an actual app running on your phone.
+
+Of course, being a QA engineer makes this experience slightly complicated.
+
+**Developer me:** "Finally, everything works!"
+
+**QA me:** "Have you tested what happens without internet?"
+
+**Developer me:** "Can you please just let me enjoy this?"
+
+And that's how a 2 minute project becomes a three-week project.
+
+## 🧪 What I Actually Do
+
+Beyond the side quests, my main focus is helping engineering teams build and release reliable software.
+
+I approach quality engineering with a combination of technical curiosity, risk-based thinking, and a healthy distrust of the phrase *"It should work."*
+
+My interests and experience include:
+
+- **Test Strategy & Planning** — Understanding product risks, defining meaningful coverage, and making sure we're testing what actually matters.
+- **Test Automation** — Building maintainable automated checks that provide useful feedback instead of just generating impressive-looking reports.
+- **API Testing** — Validating contracts, business logic, integrations, data integrity, and the failure scenarios nobody likes thinking about.
+- **Mobile & Web QA** — Exploring real-world behavior across devices, environments, networks, and unexpected user actions.
+- **Exploratory Testing** — Going beyond scripted scenarios to find the strange bugs hiding between requirements.
+- **Security-Aware Testing** — Bringing an attacker's curiosity into everyday quality engineering.
+- **Release Confidence** — Helping teams understand what's ready, what's risky, and what might come back to haunt us in production.
+
+My philosophy is simple:
+
+**A passing test suite is nice. A product that actually works for its users is better.**
+
+## 🧰 The Toolbox
 
 <div align="center">
 
@@ -123,62 +164,28 @@ It's a complicated relationship.
 ![QA](https://img.shields.io/badge/Quality%20Engineering-0B1220?style=for-the-badge&logo=checkmarx&logoColor=22C55E)
 ![Automation](https://img.shields.io/badge/Test%20Automation-0B1220?style=for-the-badge&logo=githubactions&logoColor=white)
 ![API](https://img.shields.io/badge/API%20Testing-0B1220?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Linux](https://img.shields.io/badge/Linux-0B1220?style=for-the-badge&logo=linux&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-0B1220?style=for-the-badge&logo=linux&logoColor=white)
 ![Security](https://img.shields.io/badge/Cybersecurity-0B1220?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 
 </div>
 
-## 🧩 Things that keep me curious
+## 🧩 A Few Random Facts
 
 ```text
-[01] How does this system actually work?
-[02] What happens when the happy path disappears?
-[03] Can this be automated without creating more problems?
-[04] What assumptions are we making about the user?
-[05] Could this behavior become a security risk?
-[06] Can I build a mobile app for this random idea?
-[07] Why is this test passing locally but failing in CI?
-[08] Is it a feature, a bug, or an undocumented surprise?
+[+] I enjoy breaking things to understand how they work.
+[+] I write Flutter apps when an idea refuses to leave me alone.
+[+] I believe chess and debugging require similar levels of patience.
+[+] I find security vulnerabilities fascinating.
+[+] I think edge cases deserve more attention than they get.
+[+] I prefer understanding a system over memorizing a tool.
+[+] I have never trusted "it works on my machine."
+[-] I still underestimate how long side projects take.
 ```
-
-I'm particularly interested in the intersection of **software quality, security, automation, product engineering, and real-world user behavior.**
-
-The more I learn about one, the better I become at the others.
-
-## 🌱 Always a work in progress
-
-Technology changes. Tools come and go. Frameworks get replaced. Yesterday's best practice becomes tomorrow's legacy code.
-
-I try not to get too attached to tools.
-
-What matters to me is staying curious, understanding fundamentals, learning from people who know more than I do, and being willing to rethink what I thought I understood.
-
-I'm not interested in pretending to know everything.
-
-**I'd rather be the person who asks a good question than the person who confidently ships a bad assumption.**
 
 ---
 
-<div align="center">
+### 👻 Thanks for stopping by!
 
-```bash
-┌──(ghost㉿github)-[~]
-└─$ echo "$MANTRA"
-
-"Break assumptions. Build confidence.
- Keep learning. Stay curious."
-
-┌──(ghost㉿github)-[~]
-└─$ exit
-
-[+] Session closed.
-[+] Quality checks never stop.
-```
-
-### Thanks for stopping by 👋
-
-*If you're building something interesting, testing something complicated, or exploring how systems work, we're probably going to get along.*
-
-**Keep building. Keep breaking. Keep learning.**
+*If you enjoy building things, breaking things (ethically), or figuring out why things work the way they do, we'll probably get along. See you on the other side*
 
 </div>
